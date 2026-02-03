@@ -24,20 +24,20 @@ export const EXPERIENCES = [
 ];
 
 export const PUBLICATIONS = [
-  {
-    year: "18 December, 2024",
-    description: `Revolutionizing rose grading: Real-time detection and accurate assessment with yolov8 and deep learning models.`,
-    publisher: "Springer Nature",
-    journal: "SN Computer Science",
-    role: "First Author",
-    scopus_index: "Q1 | SCImago Index: Q2", 
-    impact_factor: "3.7 | CiteScore: 5.6",   
-    link: "https://link.springer.com/article/10.1007/s42979-024-03556-z"
-  },
+  //{
+    //year: "18 December, 2024",
+    //description: `Revolutionizing rose grading: Real-time detection and accurate assessment with yolov8 and deep learning models.`,
+    //publisher: "Springer Nature",
+    //journal: "SN Computer Science",
+    //role: "First Author",
+    //scopus_index: "Q1 | SCImago Index: Q2", 
+    //impact_factor: "3.7 | CiteScore: 5.6",   
+    //link: "https://link.springer.com/article/10.1007/s42979-024-03556-z"
+  //},
   {
     year: "29 October, 2025",
     description: `PomNet: Diffusion Guided Data Augmentation and Graph Convolution for Enhanced Pomegranate Disease Classification.`,
-    publisher: "Elsevier",
+    publisher: "Elsevier B.V.",
     journal: "Journal of Agriculture and Food Research",
     role: "First Author",
     scopus_index: "Q1 | SCImago Index: Q1", 
