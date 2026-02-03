@@ -95,7 +95,7 @@ export const PROGRAMMING = [
 export const EDUCATION = [
   {
     GPA: `CGPA: 3.86 / 4.00 (2nd Position in batch)`,
-    // year: `Passing Year: June, 2025`,
+    year: `Passing Year: December, 2025`,
     degree: `B.Sc in Computer Science and Engineering`,
     institution: `University of Asia Pacific`,
     other: `Duration: 4 years`,
@@ -103,7 +103,7 @@ export const EDUCATION = [
  
   {
     GPA: `GPA: 4.25 (out of 5.00)`,
-    // year: `Passing Year: 2018`,
+    year: `Passing Year: 2018`,
     degree: `Higher Secondary Certificate (HSC)`,
     institution: `Holy Cross College`,
     other: `Group: Science, Board: Dhaka`,
@@ -111,7 +111,7 @@ export const EDUCATION = [
 
   {
     GPA: `GPA: 5.00 (out of 5.00)`,
-    // year: `Passing Year: 2016`,
+    year: `Passing Year: 2016`,
     degree: `Secondary School Certificate (SSC)`,
     institution: `Mohammadpur Preparatory School and College`,
     other: `Group: Science, Board: Dhaka`,
