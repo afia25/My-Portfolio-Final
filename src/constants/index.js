@@ -49,45 +49,40 @@ export const PUBLICATIONS = [
 
 export const PROGRAMMING = [ 
   {
-    year: "JUN 2024",
+    year: "JUN 2025",
     team_name: "UAP_Tenacious_Titans",
-    description: `EEE Tech Fest Inter Department Programming Contest 2024`,
+    description: `EEE Tech Fest Inter Department Programming Contest 2025`,
     rank: "6th",
   },
-
+  {
+    year: "JAN 2025",
+    team_name: "UAP_Tenacious_Titans",
+    description: `UAP Inter University Collaborative Programming Contest 1.0 (Senior)`,
+    rank: "25th",
+  },
+  {
+    year: "Sep 2024",
+    team_name: "UAP_Amogus",
+    description: `Intra University Hackathon - 2024`,
+    rank: "10th",
+  },
   {
     year: "APR 2024",
     team_name: "UAP_Amogus",
     description: `IUT 11th National ICT Fest Programming Contest 2024`,
     rank: "79th",
   },
-
   {
-    year: "JAN 2024",
-    team_name: "UAP_Tenacious_Titans",
-    description: `UAP Inter University Collaborative Programming Contest 1.0 (Senior)`,
-    rank: "25th",
+    year: "APR 2024",
+    team_name: "UAP_Trinity",
+    description: `UAP Intra University Programming Contest Junior - 2024`,
+    rank: "7th",
   },
-
   {
     year: "MAR 2023",
     team_name: "UAP_Tenacious_Titans",
     description: `EEE Tech Fest 1.0 Presents Intra University Programming Contest -2023`,
     rank: "9th",
-  },
-
-  {
-    year: "Sep 2022",
-    team_name: "UAP_Amogus",
-    description: `Intra University Hackathon - 2022`,
-    rank: "10th",
-  },
-
-  {
-    year: "APR 2022",
-    team_name: "UAP_Trinity",
-    description: `UAP Intra University Programming Contest Junior - 2022`,
-    rank: "7th",
   },
 
 ];
@@ -121,42 +116,42 @@ export const EDUCATION = [
 export const AWARDS = [
   {
     year: "First Year First Semester",
-    description: `Dean's Honour Award Spring - 21`,
+    description: `Dean's Honour Award Fall - 21`,
   },
 
   {
     year: "First Year Second Semester",
-    description: `Vice Chancellor's Honor Award Fall - 21`,
+    description: `Vice Chancellor's Honor Award Spring - 22`,
   },
 
   {
     year: "Second Year First Semester",
-    description: `Dean's Honour Award Spring - 22`,
-  },
-
-  {
-    year: "Second Year Second Semester",
     description: `Dean's Honour Award Fall - 22`,
   },
 
   {
-    year: "Third Year First Semester",
+    year: "Second Year Second Semester",
     description: `Dean's Honour Award Spring - 23`,
   },
 
   {
-    year: "Third Year Second Semester",
+    year: "Third Year First Semester",
     description: `Dean's Honour Award Fall - 23`,
   },
 
   {
-    year: "Fourth Year First Semester",
+    year: "Third Year Second Semester",
     description: `Dean's Honour Award Spring - 24`,
   },
 
   {
+    year: "Fourth Year First Semester",
+    description: `Dean's Honour Award Fall - 24`,
+  },
+
+  {
     year: "Fourth Year Second Semester",
-    description: `Vice Chancellor's Honor Award Fall - 24`,
+    description: `Vice Chancellor's Honor Award Spring - 25`,
   },
 
 ];
