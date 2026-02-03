@@ -43,7 +43,8 @@ const Publication = () => {
               {index === 0 && (
               <h6 className="mb-2 font-semibold">
                 <span className="text-sm text-neutral-400">
-                  Paper Link: <a href={publication.link} target="_blank" rel="noopener noreferrer"><u>{publication.link}</u></a>
+                  {/*   Paper Link: <a href={publication.link} target="_blank" rel="noopener noreferrer"><u>{publication.link}</u></a>   */}
+                  Submitted Paper: {publication.submitted_paper}
                 </span>
               </h6>
               )}
